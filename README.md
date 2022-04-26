@@ -12,7 +12,9 @@
 ## Getting Started
 ### 💻 Dependencies
   <b>Lưu ý</b> 
+  
     * SECRET_KEY mỗi project sẽ khác nên làm theo các bước sau để chạy project.
+    
     * Tạo 2 thư mục QiKi: chứa hình ảnh,... QiKi_Django: chứa code.
     
 ⭐Cài thư viện Django
