@@ -1,10 +1,10 @@
 # QIKI_Web_Browser
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codinglinhtinh/QIKI_Web_Browse?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/codinglinhtinh/QIKI_Web_Browse?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/codinglinhtinh/QIKI_Web_Browse?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/codinglinhtinh/QIKI_Web_Browse?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/codinglinhtinh/QIKI_Web_Browse?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/CodingLinhTinh/QIKI_Web_Browser?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/codinglinhtinh/QIKI_Web_Browser?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/codinglinhtinh/QIKI_Web_Browser?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/codinglinhtinh/QIKI_Web_Browser?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/codinglinhtinh/QIKI_Web_Browser?style=for-the-badge)
 
 ## Description
 >Một web browser đơn giản bằng Django web framework.
